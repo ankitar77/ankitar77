@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitar77&label=Profile%20views&color=0e75b6&style=flat" alt="ankitar77" /> </p>
